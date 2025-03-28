@@ -22,6 +22,7 @@ It consists of two parts :
 * Java (to generate apk backdoor)
 
 ## Screenshots
+<!--suppress ALL -->
 <p align="center">
   <img src="http://i.imgur.com/HM3uXL6.png" width="600"/>
 </p>
